@@ -1,0 +1,25 @@
+body,
+html
+{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #FCCB1A;
+
+}
+
+h1
+{
+    text-align: center;
+    color: #4424D6;
+    font-size: 55px;
+}
+
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%;
+    padding: 15px;
+  }

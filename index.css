@@ -1,0 +1,38 @@
+body, html
+{
+    margin: 0%;
+    width: 100%;
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #FD882E;
+}
+
+.header
+{
+    font-size: 55px;
+    font-weight: 900;
+    text-align: center;
+    color: #2767B0;
+}
+
+.picture
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: auto;
+    
+}
+
+h3
+{
+    font-size: 32px;
+    
+    color: #3C200B;
+}
+
+/*.links
+{
+    
+}*/
